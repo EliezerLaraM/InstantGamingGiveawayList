@@ -8,8 +8,8 @@ OUTPUT_FILE="${ROOT_DIR}/readme.md"
 TMP_FILE="${OUTPUT_FILE}.tmp"
 
 BASE_URL="https://www.instant-gaming.com"
-LOCALE="${LOCALE:-fr}"
-REFERRAL="jaha"
+LOCALE="${LOCALE:-es}"
+REFERRAL="gamer-2180dc7"
 AUTO_SCRIPT_URL="https://github.com/enzomtpYT/InstantGaming-Giveaway-AutoParticipate"
 
 if ! command -v jq >/dev/null 2>&1; then
